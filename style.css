@@ -1,0 +1,27 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+@import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
+
+.paragraph-one{
+    font-family: 'Spartan', sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+    line-height: 16px;
+}
+
+.paragraph-two{
+    font-family: 'Spartan', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.paragraph-three{
+    font-family: 'Spartan', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    line-height: 20px;
+}
